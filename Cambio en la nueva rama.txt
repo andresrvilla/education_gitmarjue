@@ -1,1 +1,2 @@
-Este cambio surgio de una rama para solucionar problemas, pero yo lo actualizo
+Este cambio surgio de una rama para solucionar problemas, pero yo lo actualizo.
+Este cambio esta hecho en la rama "conflicto"
