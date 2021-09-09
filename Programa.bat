@@ -6,7 +6,7 @@ echo.
 cls
 echo **********************************************************
 echo * *
-echo * Menu Inicial *
+echo * Menu PRINCIPAL *
 echo * *
 echo **********************************************************
 echo * 1._ Crear Carpeta ***************
