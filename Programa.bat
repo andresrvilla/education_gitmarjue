@@ -9,10 +9,10 @@ echo * *
 echo * Menu PRINCIPAL *
 echo * *
 echo **********************************************************
-echo * 1._ Crear Carpeta               *
-echo * 2._ Crear Archivo sin Contenido *
-echo * 3._ Creador                     *
-echo * 4._ Salir                       *
+echo * 1._ Crear Carpeta                                      *
+echo * 2._ Crear Archivo sin Contenido                        *
+echo * 3._ Creador                                            *
+echo * 4._ Salir                                              *
 echo **********************************************************
 echo **********************************************************
 echo.
